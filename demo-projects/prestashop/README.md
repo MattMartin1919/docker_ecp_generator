@@ -32,9 +32,9 @@ docker exec <container-id> service ssh restart
 ```
 
 ### Useful info
-**PrestaShop Admin Panel:** localhost/admin
+**PrestaShop Admin Panel:** localhost/administration
 
-**PrestaShop Admin User:** user
+**PrestaShop Admin User:** user@example.com
 
 **PrestaShop Admin Pass:** bitnami1
 
