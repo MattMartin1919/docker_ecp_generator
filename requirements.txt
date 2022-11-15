@@ -2,3 +2,4 @@ Flask==1.1.2
 docker-compose==1.27.4
 gitpython==3.1.27
 natsort
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
