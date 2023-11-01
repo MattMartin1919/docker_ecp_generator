@@ -3,3 +3,4 @@ docker-compose==1.27.4
 gitpython==3.1.30
 natsort
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
