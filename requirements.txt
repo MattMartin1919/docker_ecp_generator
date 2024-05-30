@@ -1,5 +1,5 @@
-Flask==2.1.0
+Flask==2.2.5
 docker-compose==1.27.4
-gitpython==3.1.30
+gitpython==3.1.41
 natsort
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
